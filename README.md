@@ -6,4 +6,4 @@ Turtle racing on python, each version aim to be a more complete, than the previo
 
 ## Changelog
 
-- v1 was relsed on April 25th  
+- v1 was released on April 25th, [link](https://youtu.be/91iauce0huQ)  
